@@ -6,7 +6,7 @@ accumulates time at any given moment.
 
 All times are in floating-point seconds.
 
-Requires Python ≥ 3.3 because it uses time.monotonic().TODO: Write a project description
+Requires Python ≥ 3.3 because it uses time.monotonic().
 
 ## Installation
 
